@@ -1,2 +1,5 @@
 hola, soy Keivin Jhan
+edad: 32 años
 Experto Git y Github
+
+tengo una altura de 1.71 mt.
